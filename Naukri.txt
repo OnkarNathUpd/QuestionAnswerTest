@@ -1,0 +1,368 @@
+Networking 
+ Software Testing 
+ SAP abap 
+ Call Center 
+ Mainframe 
+ SAP FICO 
+ SAP 
+ SEO 
+ .NET 
+ Oracle 
+ PHP 
+ Back office 
+ Java 
+ Online Marketing 
+ SAP Basis 
+ SAS 
+ CISCO 
+ Manual Testing 
+ SAP HR 
+ SAP MM 
+ SAP SD 
+ SAP Security 
+ VLSI 
+ Web Designing 
+ CCIE 
+ Informatica 
+ Linux 
+ PeopleSoft 
+ Plc 
+ SQL 
+ ASP.NET 
+ Datastage 
+ Finacle 
+ SAP CRM 
+ Tally 
+ Tibco 
+ CATIA 
+ Cognos 
+ ITIL 
+ Multimedia 
+ Photoshop 
+ PRO E 
+ ABAP 
+ Backend 
+ C 
+ DTP 
+ ERP 
+ Internet Marketing 
+ Siebel 
+ Video Editing 
+ AbInitio 
+ CADCAM 
+ Digital Marketing 
+ Editing 
+ HTML 
+ Oracle Apps 
+ Perl 
+ Python 
+ SAP PP 
+ SAP PS 
+ SQL Server 
+ Database 
+ MCSE 
+ PPC 
+ QTP 
+ SAP PM 
+ Teradata 
+ CRM 
+ data warehousing 
+ Excel 
+ Flexcube 
+ MATLAB 
+ PowerBuilder 
+ SAP BW 
+ Solaris 
+ AIX 
+ ArchiCAD 
+ Business Objects 
+ Documentum 
+ FACT 
+ Flex 
+ Hyperion 
+ SCADA 
+ UniGraphics 
+ Unix 
+ Vision Plus 
+ VSAT 
+ WebMethods 
+ Auto CAD 
+ Datawarehousing 
+ Flash 
+ Lotus Notes 
+ Maximo 
+ Primavera 
+ SAP IS-Retail 
+ Autosys 
+ COBOL 
+ ColdFusion 
+ Maya 
+ Programming 
+ RIM 
+ SAP MDM 
+ XML 
+ 3D Max 
+ Automation Testing 
+ BAAN 
+ C# 
+ Delphi 
+ J2EE 
+ MySQL 
+ RedHat 
+ SAP EP 
+ SAP SRM 
+ TPF 
+ VB.NET 
+ VOIP 
+ WebLogic 
+ WebSphere 
+ Active Directory 
+ Ansys 
+ Data Analysis 
+ Documentation 
+ DSP 
+ IMS 
+ Remedy 
+ SAP QM 
+ SPSS 
+ Sybase 
+ TLM 
+ ASIC 
+ Blackberry 
+ Corel Draw 
+ CSS 
+ DB2 
+ Embedded C 
+ FileNet 
+ FoxPro 
+ FPGA 
+ J2ME 
+ JavaScript 
+ MCSA 
+ Murex 
+ SAP XI 
+ WPF 
+ Adobe Photoshop 
+ DCA 
+ Distribution 
+ Jquery 
+ Natural Adabas 
+ ORCAD 
+ Progress 4GL 
+ SAP SCM 
+ Silverlight 
+ Switching 
+ Android Development 
+ ASP 
+ Calypso 
+ GSM 
+ Load Runner 
+ MCP 
+ MicroStation 
+ MSCIT 
+ Savvion 
+ Shell Scripting 
+ Spring 
+ Visual Basic 
+ Affiliate Marketing 
+ Eclipse 
+ Focus 
+ ForTran 
+ HP UNIX 
+ JSF 
+ MFC 
+ SAP IS-Utilities 
+ Verilog 
+ Visual Foxpro 
+ WCF 
+ Website Development 
+ Dreamweaver 
+ IIS 
+ JSP 
+ Microsoft Excel 
+ Nortel 
+ RDO 
+ ActiveX 
+ ADO 
+ Adobe Illustrator 
+ Adobe Pagemaker 
+ AJAX 
+ ALE 
+ Ant 
+ Apache Commons 
+ Apache Tomcat 
+ Apache Web Server 
+ AS 400 
+ Assembly Language 
+ ATL 
+ AutoLISP 
+ AWT 
+ BASIC 
+ Bluetooth 
+ BPCS 
+ BPEL 
+ BREW 
+ C++ 
+ CDMA 
+ Chordiant 
+ CICS 
+ CLDC 
+ Clipper 
+ COMCOM+DCOM 
+ CORBA 
+ CoreJava 
+ Crystal Report 
+ Csharp 
+ Data Structures 
+ Database Administration 
+ Db4o 
+ dBase 
+ DCOM 
+ Derby 
+ DeveloperD2K 
+ DHCP 
+ DHTML 
+ DNS 
+ DOS 
+ Downstream 
+ EJB 
+ Ethernet 
+ Expeditor 
+ Finone 
+ Firewall 
+ Fireworks 
+ FlashLite 
+ FreeBSD 
+ FTP 
+ GLOSS 
+ Hibernate 
+ Humming Bird 
+ iBatis 
+ Ideas 
+ ImageReady 
+ Impromptu 
+ Informix 
+ Ingres 
+ Installshield 
+ ISDN 
+ J++ 
+ J2SE 
+ Java2D 
+ JavaCard 
+ JavaFX 
+ JavaSE 
+ JBoss 
+ JBoss Seam 
+ JCL 
+ JDBC 
+ JDOM 
+ JFace 
+ Jini 
+ JIRA 
+ JMock 
+ JMS 
+ JNI 
+ JPA 
+ JSE 
+ JUnit 
+ Kickboxing 
+ KSH 
+ LAN 
+ LINQ 
+ Log4j 
+ Mac OS 
+ Maven 
+ Microcontrollers 
+ Microprocessors 
+ Microsoft Access 
+ Microsoft Exchange 
+ Microsoft Office 
+ MIDP 
+ MIS Reports 
+ MOSS 
+ Motif 
+ MS DOS 
+ MS Project 
+ MS SQL Server 
+ MS Visio 
+ Multithreading 
+ MVS 
+ NetWeaver 
+ Novell 
+ ODBC 
+ Office Operations 
+ OOPS 
+ OpenGL ES 
+ Operating Systems 
+ Oracle WareHouse Builder 
+ PASCAL 
+ PLSQL 
+ PL1 
+ PostgreSQL 
+ PowerPlay 
+ ProC 
+ PVCS 
+ QBasic 
+ Quality AssuranceQA 
+ Remoting 
+ REXX 
+ RichFaces 
+ RMI 
+ Routing 
+ RTOS 
+ S60 
+ SAP Bl 
+ SAP COPA 
+ SAP idocs 
+ SAP IS-GASOIL 
+ SAP Practice 
+ SAP SEM 
+ SAP WMS 
+ Seam 
+ Sharepoint Server 
+ SMARTY 
+ SMTP 
+ SoundForge 
+ STAAD 
+ Struts 
+ SunOS 
+ SWT 
+ Symbian C++ 
+ Symbian 
+ SyncML 
+ T SQL 
+ TCPIP 
+ TELNET 
+ TOAD 
+ Turbo Pascal 
+ Tuxedo 
+ UIQ 
+ UML 
+ Upstream 
+ VBScript 
+ Vi 
+ Vignette 
+ Visual C++ 
+ Visual Interdev 
+ VMS 
+ VPN 
+ VSSClearcase 
+ VxWorks 
+ WAN 
+ WAP 
+ Winform 
+ Winrunner 
+ WML 
+ XDoclet 
+ Xenix 
+ XHTML 
+ XStream 
+ Yantra 
+ Designing 
+ SMO 
+ VAXVMS 
+ TCLTK 
+ Back office Operations 
+ OS2 
+ SAP BI 
+ Sharepoint MOSS 
